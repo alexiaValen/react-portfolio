@@ -3,52 +3,31 @@ import '../styles/Section.css';
 
 const styles = {
   sectionStyles: {
-    background: 'pink',
+    background: 'white',
   },
 };
 
 function Section() {
   return (
     <section style={styles.sectionStyles} className="section">
-      <h2>Lorem Ipsum Dolor Sit Amet</h2>
+      <h2>Full Stack Web Developer</h2>
       <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
-        quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam
-        eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-        voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam
-        corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-        Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse
-        quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo
-        voluptas nulla pariatur?
+      As a Full-Stack developer I am capable of working on both front-end and back-end development processes. I can design, develop, and maintain fully-fledged and functioning platforms with databases or servers. These servers do not need other third-party applications to build an entire system from scratch.
       </p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
+      I have a functional knowledge of all the layers of software development. I can take an idea and turn it into a finished product independently. I know multiple languages, especially web languages (HTML, CSS, JavaScript), software development approaches, modern concepts, and various tools that are needed to build a full-fledged web/mobile app.
       </p>
       <p>
-        At vero eos et accusamus et iusto odio dignissimos ducimus qui
-        blanditiis praesentium voluptatum deleniti atque corrupti quos dolores
-        et quas molestias excepturi sint occaecati cupiditate non provident,
-        similique sunt in culpa qui officia deserunt mollitia animi, id est
-        laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita
-        distinctio. Nam libero tempore, cum soluta nobis est eligendi optio
-        cumque nihil impedit quo minus id quod maxime placeat facere possimus,
-        omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem
-        quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet
-        ut et voluptates repudiandae sint et molestiae non recusandae. Itaque
-        earum rerum hic tenetur a sapiente delectus, ut aut reiciendis
-        voluptatibus maiores alias consequatur aut perferendis doloribus
-        asperiores repellat.
+      <h3>Roles And Responsibilites I have accomplished:</h3>
+      <li>Build dynamic, visually-attractive, end-to-end, and innovative software product/apps including front-end and back-end</li>
+      <li>Able to design the user experience, user interaction, responsive design, and complete architecture</li>
+      <li>Able to work with databases, servers, APIs, version control systems, and third-party apps</li>
+      <li>Provide insights on continuous improvement and add/remove functionality as per needs</li>
+      <li>Design strategy for continuous enhancement, performance optimization, stability, and scalability</li>
+      <li>Stay updated with new tools, frameworks, approaches, and architectures in the development world</li>
+      <li>Transform business needs into a finished product from conception to implementation</li>
+      <li>Ensure cross-platform compatibility and fixing issues during test and production phases</li>
+
       </p>
     </section>
   );
